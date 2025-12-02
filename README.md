@@ -1,5 +1,5 @@
 # MiniProjectRTOS
-Smart Door Lock
+
 # Smart Door Lock System with PIN Authentication
 
 ESP32-S3 + FreeRTOS — Semaphore, Interrupt, Queue, Mutex, OLED Display & Servo Control
@@ -122,3 +122,7 @@ Project ini merupakan sistem keamanan pintu cerdas yang berjalan pada ESP32-S3 m
 - Task dapat diassign ke core berbeda untuk optimasi
 
 Demonstrasi 
+
+
+https://github.com/user-attachments/assets/608cc40f-44f2-4791-86cf-b1d8d5cf9d8d
+
