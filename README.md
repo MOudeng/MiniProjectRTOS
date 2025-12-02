@@ -17,10 +17,9 @@ Project ini merupakan sistem keamanan pintu cerdas yang berjalan pada ESP32-S3 m
 | ESP32-S3 Dev Board | Proses utama, menjalankan multitasking RTOS |
 | Servo Motor (SG90) | Mengunci dan membuka pintu (0°=terkunci, 90°=terbuka) |
 | OLED Display (SSD1306 128x64) | Menampilkan status sistem dan input PIN |
-| Active Buzzer | Memberikan feedback audio untuk setiap aksi |
+| Buzzer | Memberikan feedback audio untuk setiap aksi |
 | 2 Tombol Push Button | BUTTON_UP (increment digit), BUTTON_DOWN (decrement digit) |
 | 2 LED (Merah & Hijau) | Indikator status akses (granted/denied) |
-| Resistor 330Ω | Untuk LED protection |
 
 ---
 
