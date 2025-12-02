@@ -120,3 +120,5 @@ Project ini merupakan sistem keamanan pintu cerdas yang berjalan pada ESP32-S3 m
 *Multicore Ready
 - Architecture mendukung multicore processing
 - Task dapat diassign ke core berbeda untuk optimasi
+
+Demonstrasi 
