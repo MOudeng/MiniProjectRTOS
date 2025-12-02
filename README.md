@@ -13,7 +13,7 @@ Project ini merupakan sistem keamanan pintu cerdas yang berjalan pada ESP32-S3 m
 ## Komponen yang Digunakan
 
 | Komponen | Fungsi |
-
+|---|---|
 | ESP32-S3 Dev Board | Proses utama, menjalankan multitasking RTOS |
 | Servo Motor (SG90) | Mengunci dan membuka pintu (0°=terkunci, 90°=terbuka) |
 | OLED Display (SSD1306 128x64) | Menampilkan status sistem dan input PIN |
